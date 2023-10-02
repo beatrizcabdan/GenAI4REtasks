@@ -1,0 +1,1 @@
+Act as a requirements engineering domain expert and list the IDs of requirements that are dependent on the [deprecated] feature in the following requirements specification document:

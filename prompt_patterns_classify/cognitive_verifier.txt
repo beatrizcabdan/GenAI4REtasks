@@ -1,0 +1,1 @@
+Read the following list of requirements and return the IDs of non-functional requirements only. Ask me questions if needed to break the given task into smaller subtasks. All the outputs to the smaller subtasks must be combined before you generate the final output.

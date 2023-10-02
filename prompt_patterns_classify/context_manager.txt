@@ -1,0 +1,1 @@
+Read the following list of requirements and only return the IDs of non-functional requirements in the first line of your reply. Then, please explain the reasoning and assumptions behind your response. If possible, address any potential ambiguities or limitations in your answer, in order to provide a more complete and accurate response.

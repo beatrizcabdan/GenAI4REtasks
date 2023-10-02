@@ -1,0 +1,5 @@
+Read the following list of requirements and return the IDs of non-functional requirements only. Write the result as a list like:
+(ID=X)
+(ID=Y)
+(ID=Z)
+where X, Y, and Z are IDs of non-functional requirements.

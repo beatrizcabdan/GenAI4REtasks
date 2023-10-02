@@ -1,0 +1,1 @@
+I would like you to ask me questions regarding any additional information you would need in order to list the IDs of requirements that are related to the [deprecated] feature from the requirements specification document below.
